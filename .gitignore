@@ -1,0 +1,4 @@
+# Project exclude paths
+/DemoMicroservices/CitizenService/target/
+/DemoMicroservices/EurekaServer/target/
+/DemoMicroservices/VaccinationCenter/target/
