@@ -1,4 +1,4 @@
-package com.codedecode.microservices.API_Gateway;
+package com.sprint2.microservices.API_Gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
